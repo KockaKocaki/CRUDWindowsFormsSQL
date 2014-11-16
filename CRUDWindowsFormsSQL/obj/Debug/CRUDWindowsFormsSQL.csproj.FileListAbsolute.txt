@@ -1,0 +1,9 @@
+C:\Users\Stefan\Desktop\CRUDWindowsFormsSQL\CRUDWindowsFormsSQL\bin\Debug\CRUDWindowsFormsSQL.exe.config
+C:\Users\Stefan\Desktop\CRUDWindowsFormsSQL\CRUDWindowsFormsSQL\obj\Debug\CRUDWindowsFormsSQL.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\CRUDWindowsFormsSQL\CRUDWindowsFormsSQL\obj\Debug\CRUDWindowsFormsSQL.Form1.resources
+C:\Users\Stefan\Desktop\CRUDWindowsFormsSQL\CRUDWindowsFormsSQL\obj\Debug\CRUDWindowsFormsSQL.Properties.Resources.resources
+C:\Users\Stefan\Desktop\CRUDWindowsFormsSQL\CRUDWindowsFormsSQL\obj\Debug\CRUDWindowsFormsSQL.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\CRUDWindowsFormsSQL\CRUDWindowsFormsSQL\bin\Debug\CRUDWindowsFormsSQL.exe
+C:\Users\Stefan\Desktop\CRUDWindowsFormsSQL\CRUDWindowsFormsSQL\bin\Debug\CRUDWindowsFormsSQL.pdb
+C:\Users\Stefan\Desktop\CRUDWindowsFormsSQL\CRUDWindowsFormsSQL\obj\Debug\CRUDWindowsFormsSQL.exe
+C:\Users\Stefan\Desktop\CRUDWindowsFormsSQL\CRUDWindowsFormsSQL\obj\Debug\CRUDWindowsFormsSQL.pdb
